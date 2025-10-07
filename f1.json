@@ -1,0 +1,21 @@
+{
+  "nrow": 5,
+  "ncol": 5,
+  "start_pos": [
+    4,
+    4
+  ],
+  "obstacles": [
+    [
+      3,
+      0
+    ]
+  ],
+  "goals": [
+    [
+      2,
+      2
+    ]
+  ],
+  "random_goal": false
+}
